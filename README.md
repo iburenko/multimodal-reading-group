@@ -10,6 +10,7 @@
 | 07.03.2024 | Still (sic!) continue | | It seems that they train using BoW, even though their inference pipeline does not reflect this. | 
 | 14.03.2024 | [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) | X. Zhai, B. Mustafa, A. Kolesnikov, L. Beyer ||
 | 21.03.2024 | Continue | | |
+| 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | |
 ---
 
 
