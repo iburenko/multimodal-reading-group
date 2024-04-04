@@ -11,6 +11,8 @@
 | 14.03.2024 | [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) | X. Zhai, B. Mustafa, A. Kolesnikov, L. Beyer ||
 | 21.03.2024 | Continue | | |
 | 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | |
+| 04.04.2024 | [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681) | Wang, Tran, Feiszli | |
+| 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency |
 ---
 
 
@@ -56,7 +58,7 @@
 <details>
 <summary> Modality Competition. Quantitative Methods of Detection of Suboptimality. </summary>
   
-- [ ] Wang et al. [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681)
+- [x] Wang et al. [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681)
 - [ ] Wu et al. [Characterizing and Overcoming the Greedy Nature of Learning in Multi-modal Deep Neural Networks](https://arxiv.org/abs/2202.05306)
 - [ ] Huang et al. [Modality Competition: What Makes Joint Training of Multi-modal Network Fail in Deep Learning? (Provably)](https://arxiv.org/abs/2203.12221)
 </details>
