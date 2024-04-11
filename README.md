@@ -12,7 +12,8 @@
 | 21.03.2024 | Continue | | |
 | 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | |
 | 04.04.2024 | [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681) | Wang, Tran, Feiszli | |
-| 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency |
+| 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency | |
+| 18.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | |
 ---
 
 
