@@ -13,14 +13,15 @@
 | 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | |
 | 04.04.2024 | [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681) | Wang, Tran, Feiszli | |
 | 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency | |
-| 18.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | |
+| 16.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | |
+| 23.04.2024 | [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](https://arxiv.org/abs/2404.08197) | Li, Xie, Cubuk | |
 ---
 
 
 <details>
 <summary> Datasets and benchmarks </summary>
 
-- [ ] Liang et al. [MULTIBENCH: Multiscale Benchmarks for Multimodal Representation Learning](https://github.com/pliang279/MultiBench)
+- [x] Liang et al. [MULTIBENCH: Multiscale Benchmarks for Multimodal Representation Learning](https://github.com/pliang279/MultiBench)
 </details>
 
 <details>
@@ -35,7 +36,7 @@
 <details>
 <summary> Latent Space Structure </summary>
 
-- [ ] Liang et at [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://github.com/Weixin-Liang/Modality-Gap)
+- [x] Liang et at [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://github.com/Weixin-Liang/Modality-Gap)
 - [x] Yuksekgonul et al. [When and why vision-language models behave like bags-of-words, and what to do about it?](https://arxiv.org/abs/2210.01936)
 </details>
 
