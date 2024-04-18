@@ -1,19 +1,19 @@
 # multimodal-reading-group
 
 ---
-| Date | Paper | Authors | Comments |
-| :--- | :---- | :------ | :------- |
-| 01.02.2024 | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | H. Liu, C. Li, Q. Wu, Y. J. Lee ||
-| 08.02.2024 | [When and why vision-language models behave like bags-of-words, and what to do about it?](https://arxiv.org/abs/2210.01936) | M. Yuksekgonul, F. Bianchi, P. Kalluri, D. Jurafsky, J. Zou | Why did they expect that CLIP will take a word order into account given that CLIP is trained to match a bag-of-words with a corresponding image? |
-| 22.02.2024 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | A. Radford, J.W. Kim, C. Hallacy, A. Ramesh, G.Goh, S. Agarwal, G. Sastry, A. Askell, P. Mishkin, J. Clark, G. Krueger, I. Sutskever | See also [open source implementation](https://github.com/mlfoundations/open_clip) of CLIP; [Scaling laws for contrastive language-image learning](https://arxiv.org/abs/2212.07143)| 
+| Date | Paper | Authors | Code | Demo | Comments |
+| :--- | :---- | :------ | :--- | :--- | :------- |
+| 01.02.2024 | [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) | H. Liu, C. Li, Q. Wu, Y. J. Lee | [GitHub](https://github.com/haotian-liu/LLaVA)|[Demo](https://llava.hliu.cc/)||
+| 08.02.2024 | [When and why vision-language models behave like bags-of-words, and what to do about it?](https://arxiv.org/abs/2210.01936) | M. Yuksekgonul, F. Bianchi, P. Kalluri, D. Jurafsky, J. Zou | https://github.com/mertyg/vision-language-models-are-bows| [Colab](https://colab.research.google.com/drive/1Rmn8CYXRFg4eC458vkBHwAdVKgS03e5D?usp=sharing) | Why did they expect that CLIP will take a word order into account given that CLIP is trained to match a bag-of-words with a corresponding image? |
+| 22.02.2024 | [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) | A. Radford, J.W. Kim, C. Hallacy, A. Ramesh, G.Goh, S. Agarwal, G. Sastry, A. Askell, P. Mishkin, J. Clark, G. Krueger, I. Sutskever | [GitHub](https://github.com/openai/CLIP) [Project Page](https://openai.com/research/clip) |[Colab](https://colab.research.google.com/github/openai/clip/blob/master/notebooks/Interacting_with_CLIP.ipynb) | See also [open source implementation](https://github.com/mlfoundations/open_clip) of CLIP; [Scaling laws for contrastive language-image learning](https://arxiv.org/abs/2212.07143)| 
 | 29.02.2024 | Continue | | Fig. 2 is unclear. How do they obtain a vector for a bag-of-words? | 
 | 07.03.2024 | Still (sic!) continue | | It seems that they train using BoW, even though their inference pipeline does not reflect this. | 
-| 14.03.2024 | [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) | X. Zhai, B. Mustafa, A. Kolesnikov, L. Beyer ||
+| 14.03.2024 | [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) | X. Zhai, B. Mustafa, A. Kolesnikov, L. Beyer | [HuggingFace](https://huggingface.co/docs/transformers/en/model_doc/siglip) | |
 | 21.03.2024 | Continue | | |
-| 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | |
+| 28.03.2024 | [Mind the Gap: Understanding the Modality Gap in Multi-modal Contrastive Representation Learning](https://arxiv.org/abs/2203.02053) | W. Liang, Y. Zhang, Y. Kwon, S. Yeung, J. Zou | [GitHub](https://github.com/Weixin-Liang/Modality-Gap) [Project Page](https://modalitygap.readthedocs.io/en/latest/) | |
 | 04.04.2024 | [What Makes Training Multi-modal Classification Networks Hard?](https://arxiv.org/abs/1905.12681) | Wang, Tran, Feiszli | |
-| 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency | |
-| 16.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | |
+| 11.04.2024 | [MultiBench: Multiscale Benchmarks for Multimodal Representation Learning](https://arxiv.org/abs/2107.07502) | Liang, Lyu, Fan, Wu, Cheng, Wu, Chen, Wu, Lee, Zhu, Salakhutdinaov, Morency | [GitHub](https://github.com/pliang279/MultiBench) [Project Page](https://cmu-multicomp-lab.github.io/multibench/) | [Demos](https://github.com/pliang279/MultiBench/tree/main/examples)|
+| 16.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | [GitHub](https://github.com/tsb0601/MMVP) [Project Page](https://tsb0601.github.io/mmvp_blog/)| [HuggingFace](https://huggingface.co/MMVP) |
 | 23.04.2024 | [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](https://arxiv.org/abs/2404.08197) | Li, Xie, Cubuk | |
 ---
 
