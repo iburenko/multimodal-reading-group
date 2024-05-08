@@ -16,6 +16,7 @@
 | 16.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | [GitHub](https://github.com/tsb0601/MMVP) [Project Page](https://tsb0601.github.io/mmvp_blog/)| [HuggingFace](https://huggingface.co/MMVP) |
 | 23.04.2024 | [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](https://arxiv.org/abs/2404.08197) | Li, Xie, Cubuk | |
 | 30.04.2024 | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | Lu, Peng, Cheng, Galley, Chang, Wu, Zhu, Gao | [GitHub](https://github.com/lupantech/chameleon-llm), [Project Page](https://chameleon-llm.github.io/) | 
+| 07.04.2024 | [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) | Agarwal, Singh, Zhang, Bohnet, Chan, Anand, Abbas, Nova, Co-Reyes, Chu, Behbahani, Faust, Larochelle | Not Provided | 
 ---
 
 
