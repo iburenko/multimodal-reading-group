@@ -18,6 +18,7 @@
 | 30.04.2024 | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | Lu, Peng, Cheng, Galley, Chang, Wu, Zhu, Gao | [GitHub](https://github.com/lupantech/chameleon-llm), [Project Page](https://chameleon-llm.github.io/) | 
 | 07.04.2024 | [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) | Agarwal, Singh, Zhang, Bohnet, Chan, Anand, Abbas, Nova, Co-Reyes, Chu, Behbahani, Faust, Larochelle | Not Provided | 
 | 28.04.2024 | [BABILong: a long-context needle-in-a-haystack benchmark for LLMs](https://arxiv.org/abs/2402.10790) | Kuratob, Bulatov, Anokhin, Sorokin, Sorokin, Burtsev | [GitHub](https://github.com/booydar/babilong) 
+| 04.04.2024 | Continue |
 ---
 
 
