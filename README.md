@@ -16,12 +16,13 @@
 | 16.04.2024 | [Eyes Wide Shut? Exploring the Visual Shortcomings of Multimodal LLMs](https://arxiv.org/abs/2401.06209) | Tong, Liu, Zhai, Ma, LeCun, Xie | [GitHub](https://github.com/tsb0601/MMVP) [Project Page](https://tsb0601.github.io/mmvp_blog/)| [HuggingFace](https://huggingface.co/MMVP) |
 | 23.04.2024 | [Scaling (Down) CLIP: A Comprehensive Analysis of Data, Architecture, and Training Strategies](https://arxiv.org/abs/2404.08197) | Li, Xie, Cubuk | |
 | 30.04.2024 | [Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models](https://arxiv.org/abs/2304.09842) | Lu, Peng, Cheng, Galley, Chang, Wu, Zhu, Gao | [GitHub](https://github.com/lupantech/chameleon-llm), [Project Page](https://chameleon-llm.github.io/) | 
-| 07.04.2024 | [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) | Agarwal, Singh, Zhang, Bohnet, Chan, Anand, Abbas, Nova, Co-Reyes, Chu, Behbahani, Faust, Larochelle | Not Provided | 
-| 28.04.2024 | [BABILong: a long-context needle-in-a-haystack benchmark for LLMs](https://arxiv.org/abs/2402.10790) | Kuratob, Bulatov, Anokhin, Sorokin, Sorokin, Burtsev | [GitHub](https://github.com/booydar/babilong) 
-| 04.04.2024 | Continue |
-| 11.04.2024 | [4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647) | Mizrahi, Bachmann, Kar, Yeo, Gao, Dehghan, Zamir | [GitHub](https://github.com/apple/ml-4m) [Project Page](https://4m.epfl.ch/)
-| 18.04.2024 | Continue |
-| 25.04.2024 | [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356) | Rasheed, Maaz, Shaji, Shaker, Khan, Cholakkal, Anwer, Xing, Yang, Khan | [GitHub](https://github.com/mbzuai-oryx/groundingLMM) [Project Page](https://mbzuai-oryx.github.io/groundingLMM/) | [Demo](https://glamm.mbzuai-oryx.ngrok.app/) |
+| 07.05.2024 | [Many-Shot In-Context Learning](https://arxiv.org/abs/2404.11018) | Agarwal, Singh, Zhang, Bohnet, Chan, Anand, Abbas, Nova, Co-Reyes, Chu, Behbahani, Faust, Larochelle | Not Provided | 
+| 28.05.2024 | [BABILong: a long-context needle-in-a-haystack benchmark for LLMs](https://arxiv.org/abs/2402.10790) | Kuratob, Bulatov, Anokhin, Sorokin, Sorokin, Burtsev | [GitHub](https://github.com/booydar/babilong) 
+| 04.06.2024 | Continue |
+| 11.06.2024 | [4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647) | Mizrahi, Bachmann, Kar, Yeo, Gao, Dehghan, Zamir | [GitHub](https://github.com/apple/ml-4m) [Project Page](https://4m.epfl.ch/)
+| 18.06.2024 | Continue |
+| 25.06.2024 | [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356) | Rasheed, Maaz, Shaji, Shaker, Khan, Cholakkal, Anwer, Xing, Yang, Khan | [GitHub](https://github.com/mbzuai-oryx/groundingLMM) [Project Page](https://mbzuai-oryx.github.io/groundingLMM/) | [Demo](https://glamm.mbzuai-oryx.ngrok.app/) |
+| 02.07.2024 | Code Reading Group |
 ---
 
 
