@@ -21,6 +21,7 @@
 | 04.04.2024 | Continue |
 | 11.04.2024 | [4M: Massively Multimodal Masked Modeling](https://arxiv.org/abs/2312.06647) | Mizrahi, Bachmann, Kar, Yeo, Gao, Dehghan, Zamir | [GitHub](https://github.com/apple/ml-4m) [Project Page](https://4m.epfl.ch/)
 | 18.04.2024 | Continue |
+| 25.04.2024 | [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356) | Rasheed, Maaz, Shaji, Shaker, Khan, Cholakkal, Anwer, Xing, Yang, Khan | [GitHub](https://github.com/mbzuai-oryx/groundingLMM) [Project Page](https://mbzuai-oryx.github.io/groundingLMM/) | [Demo](https://glamm.mbzuai-oryx.ngrok.app/) |
 ---
 
 
