@@ -24,6 +24,8 @@
 | 25.06.2024 | [GLaMM: Pixel Grounding Large Multimodal Model](https://arxiv.org/abs/2311.03356) | Rasheed, Maaz, Shaji, Shaker, Khan, Cholakkal, Anwer, Xing, Yang, Khan | [GitHub](https://github.com/mbzuai-oryx/groundingLMM) [Project Page](https://mbzuai-oryx.github.io/groundingLMM/) | [Demo](https://glamm.mbzuai-oryx.ngrok.app/) |
 | 02.07.2024 | Code Reading Group |
 | 09.07.2024 | Knowledge Distillation | [Gemma 2 (pdf)](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), [MobileLLM](https://arxiv.org/abs/2402.14905), [Knowledge distillation](https://arxiv.org/abs/2106.05237), [On-Policy distillation of Language Models](https://arxiv.org/abs/2306.13649)
+| 16.07.2024 | [Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities](https://arxiv.org/abs/2406.14562) | Menon, Zemel, Vondrick | [Project Page](https://whiteboard.cs.columbia.edu/)
+| 23.07.2024 | [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/) | Goh, Cammarata, Voss, Carter, Petrov, Schubert, Radford, Olah |
 ---
 
 
