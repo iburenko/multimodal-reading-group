@@ -26,6 +26,9 @@
 | 09.07.2024 | Knowledge Distillation | [Gemma 2 (pdf)](https://storage.googleapis.com/deepmind-media/gemma/gemma-2-report.pdf), [MobileLLM](https://arxiv.org/abs/2402.14905), [Knowledge distillation](https://arxiv.org/abs/2106.05237), [On-Policy distillation of Language Models](https://arxiv.org/abs/2306.13649)
 | 16.07.2024 | [Whiteboard-of-Thought: Thinking Step-by-Step Across Modalities](https://arxiv.org/abs/2406.14562) | Menon, Zemel, Vondrick | [Project Page](https://whiteboard.cs.columbia.edu/)
 | 23.07.2024 | [Multimodal Neurons in Artificial Neural Networks](https://distill.pub/2021/multimodal-neurons/) | Goh, Cammarata, Voss, Carter, Petrov, Schubert, Radford, Olah |
+| 30.07.2024 | Continue + (very briefly) [CLIPPO](https://arxiv.org/abs/2212.08045) |
+| 06.08.2024 | [Does my multimodal model learn cross-modal interactions? It's harder to tell than you might think!](https://arxiv.org/abs/2010.06572) | Hessel, Lee |
+
 ---
 
 
