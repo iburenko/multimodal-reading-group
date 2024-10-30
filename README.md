@@ -29,6 +29,9 @@
 | 30.07.2024 | Continue + (very briefly) [CLIPPO](https://arxiv.org/abs/2212.08045) |
 | 06.08.2024 | [Does my multimodal model learn cross-modal interactions? It's harder to tell than you might think!](https://arxiv.org/abs/2010.06572) | Hessel, Lee |
 | 13.08.2024 | Graph of Thoughts and Monte Carlo Tree Search | Monte Carlo Tree Search from [Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B](https://arxiv.org/abs/2406.07394); [Graph of Thoughts](https://arxiv.org/abs/2308.09687); [Large Language Monkeys](https://arxiv.org/abs/2407.21787); [STaR: Self-Taught Reasoner](https://arxiv.org/abs/2203.14465); [Agent Hospital: A Simulacrum of Hospital with Evolvable Medical Agents](https://arxiv.org/abs/2405.02957); Bonus! [DeepSeek-Prover-V1.5](https://arxiv.org/abs/2408.08152) | [Tinygrad example of MCTS](https://github.com/tinygrad/tinygrad/blob/63a8bc29d4e82626c1f579d33ef94a8b0b2822bd/extra/mcts_search.py#L74) 
+| 15.10.2024 |
+| 22.10.2024 | [Calibration Multimodal Learning](https://openreview.net/forum?id=hTWqB327Oay) | Ma, Zhang, Wu, Fu, Hu |
+| 08.11.2024 | Towards Mamba: the S4 model and topic around: [HiPPo](https://arxiv.org/abs/2008.07669), [S4 paper](https://arxiv.org/abs/2111.00396), [Annotated S4 blog post](https://srush.github.io/annotated-s4/) | Gu, Goel, Ré | [GitHub](https://github.com/state-spaces/s4) |
 ---
 
 
