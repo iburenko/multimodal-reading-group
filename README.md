@@ -32,6 +32,8 @@
 | 15.10.2024 |
 | 22.10.2024 | [Calibration Multimodal Learning](https://openreview.net/forum?id=hTWqB327Oay) | Ma, Zhang, Wu, Fu, Hu |
 | 08.11.2024 | Towards Mamba: the S4 model and topic around: [HiPPo](https://arxiv.org/abs/2008.07669), [S4 paper](https://arxiv.org/abs/2111.00396), [Annotated S4 blog post](https://srush.github.io/annotated-s4/) | Gu, Goel, Ré | [GitHub](https://github.com/state-spaces/s4) |
+| 15.11.2024 | Continue: HiPPO and S4 | 
+| 22.11.2024 | Continue: Mamba & differences between Transformers and SSMs | 
 ---
 
 
