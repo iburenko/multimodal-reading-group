@@ -35,7 +35,9 @@
 | 15.11.2024 | Continue: HiPPO and S4 | 
 | 22.11.2024 | Continue: Mamba & differences between Transformers and SSMs | 
 | 07.02.2025 | **RLHF Block.** Part 1. Motivation and the RLHF fine-tuning | Stiennon and friends [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) (RLHF for summarisation); Ouyang and friends [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (RLHF for wide range of NLP-related tasks) | 
-| 14.02.2025 | **RLHF Block.** Part 1. Motivation and the RLHF fine-tuning | [Stiennon et al.](https://arxiv.org/abs/2009.01325), [Ouyand et al.](https://arxiv.org/abs/2203.02155) + Ziegler et al. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) |
+| 14.02.2025 | **RLHF Block.** Part 2. Motivation and the RLHF fine-tuning | [Stiennon et al.](https://arxiv.org/abs/2009.01325), [Ouyand et al.](https://arxiv.org/abs/2203.02155) + Ziegler et al. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) |
+| 21.02.2025 | **RLHF Block.** Part 3. Motivation and the RLHF fine-tuning | Finish discussing [Ouyand et al.](https://arxiv.org/abs/2203.02155) |
+| 24.02.2025 | **RLHF Block.** Part 4. Reinforcement Learning. Q-Learning and PPO | TBA |
 ---
 
 
