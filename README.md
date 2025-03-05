@@ -34,10 +34,11 @@
 | 08.11.2024 | Towards Mamba: the S4 model and topic around: [HiPPo](https://arxiv.org/abs/2008.07669), [S4 paper](https://arxiv.org/abs/2111.00396), [Annotated S4 blog post](https://srush.github.io/annotated-s4/) | Gu, Goel, Ré | [GitHub](https://github.com/state-spaces/s4) |
 | 15.11.2024 | Continue: HiPPO and S4 | 
 | 22.11.2024 | Continue: Mamba & differences between Transformers and SSMs | 
-| 07.02.2025 | **RLHF Block.** Part 1. Motivation and the RLHF fine-tuning | Stiennon and friends [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) (RLHF for summarisation); Ouyang and friends [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (RLHF for wide range of NLP-related tasks) | 
-| 14.02.2025 | **RLHF Block.** Part 2. Motivation and the RLHF fine-tuning | [Stiennon et al.](https://arxiv.org/abs/2009.01325), [Ouyand et al.](https://arxiv.org/abs/2203.02155) + Ziegler et al. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) |
-| 21.02.2025 | **RLHF Block.** Part 3. Motivation and the RLHF fine-tuning | Finish discussing [Ouyand et al.](https://arxiv.org/abs/2203.02155) |
+| 07.02.2025 | **RLHF Block.** Part 1. Motivation and RLHF fine-tuning | Stiennon and friends [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) (RLHF for summarisation); Ouyang and friends [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (RLHF for wide range of NLP-related tasks) | 
+| 14.02.2025 | **RLHF Block.** Part 2. Motivation and RLHF fine-tuning | [Stiennon et al.](https://arxiv.org/abs/2009.01325), [Ouyand et al.](https://arxiv.org/abs/2203.02155) + Ziegler et al. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) |
+| 21.02.2025 | **RLHF Block.** Part 3. Motivation and RLHF fine-tuning | Finish discussing [Ouyand et al.](https://arxiv.org/abs/2203.02155) |
 | 24.02.2025 | **RLHF Block.** Part 4. Reinforcement Learning. Q-Learning and PPO | TBA |
+| 14.03.2025 | **RLHF Block.** Part 5. DPO and oher alternatives to RLHF. | [Rafailov et al. The DPO paper](https://arxiv.org/abs/2305.18290)
 ---
 
 
