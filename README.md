@@ -37,8 +37,8 @@
 | 07.02.2025 | **RLHF Block.** Part 1. Motivation and RLHF fine-tuning | Stiennon and friends [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) (RLHF for summarisation); Ouyang and friends [Training language models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) (RLHF for wide range of NLP-related tasks) | 
 | 14.02.2025 | **RLHF Block.** Part 2. Motivation and RLHF fine-tuning | [Stiennon et al.](https://arxiv.org/abs/2009.01325), [Ouyand et al.](https://arxiv.org/abs/2203.02155) + Ziegler et al. [Fine-Tuning Language Models from Human Preferences](https://arxiv.org/abs/1909.08593) |
 | 21.02.2025 | **RLHF Block.** Part 3. Motivation and RLHF fine-tuning | Finish discussing [Ouyand et al.](https://arxiv.org/abs/2203.02155) |
-| 24.02.2025 | **RLHF Block.** Part 4. Reinforcement Learning. Q-Learning and PPO | TBA |
-| 14.03.2025 | **RLHF Block.** Part 5. DPO and oher alternatives to RLHF. | [Rafailov et al. The DPO paper](https://arxiv.org/abs/2305.18290)
+| 24.02.2025 | **RLHF Block.** Part 4. Reinforcement Learning. Q-Learning and PPO | [Slides](https://drive.google.com/file/d/1aiotwGK4XZnhE3vZr8vhXMxYsykc0Uwe/view?usp=drive_link) |
+| 21.03.2025 | **RLHF Block.** Part 5. DPO and oher alternatives to RLHF. | [Rafailov et al. The DPO paper](https://arxiv.org/abs/2305.18290), [Transition from formula 3 to formula 4 from the DPO paper](https://www.tylerromero.com/posts/2024-04-dpo/), [the Rejection sampling paper](https://arxiv.org/abs/2204.05862), [the Llama 2 paper](https://arxiv.org/abs/2307.09288), [RLAIF](https://arxiv.org/abs/2309.00267)
 ---
 
 
