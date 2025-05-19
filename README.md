@@ -39,6 +39,9 @@
 | 21.02.2025 | **RLHF Block.** Part 3. Motivation and RLHF fine-tuning | Finish discussing [Ouyand et al.](https://arxiv.org/abs/2203.02155) |
 | 24.02.2025 | **RLHF Block.** Part 4. Reinforcement Learning. Q-Learning and PPO | [Slides](https://drive.google.com/file/d/1aiotwGK4XZnhE3vZr8vhXMxYsykc0Uwe/view?usp=drive_link) |
 | 21.03.2025 | **RLHF Block.** Part 5. DPO and oher alternatives to RLHF. | [Rafailov et al. The DPO paper](https://arxiv.org/abs/2305.18290), [Transition from formula 3 to formula 4 from the DPO paper](https://www.tylerromero.com/posts/2024-04-dpo/), [the Rejection sampling paper](https://arxiv.org/abs/2204.05862), [the Llama 2 paper](https://arxiv.org/abs/2307.09288), [RLAIF](https://arxiv.org/abs/2309.00267)
+| 11.04.2025 | Reminder on Chain-of-Thought |  | [ArXiv](https://arxiv.org/abs/2402.03300)
+| 02.05.2025 | [DeepSeek-Math](https://arxiv.org/abs/2402.03300) | Shao, Wang, Zhu, Xu, Song, Bi, Zhang, Zhang, Li, Wu, Guo | [GitHub](https://github.com/deepseek-ai/DeepSeek-Math)
+| 16.05.2025 | [DeepSeek-Prover](https://arxiv.org/abs/2405.14333) | Xin, Guo, Shao, Ren, Zhu, Liu, Ruan, Li, Liang | [Prover-V2](https://arxiv.org/abs/2504.21801), [Prover-V2-GitHub](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
 ---
 
 
