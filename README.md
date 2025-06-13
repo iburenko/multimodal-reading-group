@@ -42,6 +42,7 @@
 | 11.04.2025 | Reminder on Chain-of-Thought |  | [ArXiv](https://arxiv.org/abs/2402.03300)
 | 02.05.2025 | [DeepSeek-Math](https://arxiv.org/abs/2402.03300) | Shao, Wang, Zhu, Xu, Song, Bi, Zhang, Zhang, Li, Wu, Guo | [GitHub](https://github.com/deepseek-ai/DeepSeek-Math)
 | 16.05.2025 | [DeepSeek-Prover](https://arxiv.org/abs/2405.14333) | Xin, Guo, Shao, Ren, Zhu, Liu, Ruan, Li, Liang | [Prover-V2](https://arxiv.org/abs/2504.21801), [Prover-V2-GitHub](https://github.com/deepseek-ai/DeepSeek-Prover-V2)
+| 30.05.2025 | [DeepSeek-R1](https://arxiv.org/abs/2501.12948) | DeepSeek-AI |
 ---
 
 
